@@ -1,0 +1,43 @@
+C:\Users\Administrador\Desktop\RONALD\Empleado\Empleado01\Empleado01\bin\Debug\Empleado01.exe.config
+C:\Users\Administrador\Desktop\RONALD\Empleado\Empleado01\Empleado01\bin\Debug\Empleado01.exe
+C:\Users\Administrador\Desktop\RONALD\Empleado\Empleado01\Empleado01\bin\Debug\Empleado01.pdb
+C:\Users\Administrador\Desktop\RONALD\Empleado\Empleado01\Empleado01\obj\Debug\Empleado01.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\RONALD\Empleado\Empleado01\Empleado01\obj\Debug\Empleado01.frmEmpleado.resources
+C:\Users\Administrador\Desktop\RONALD\Empleado\Empleado01\Empleado01\obj\Debug\Empleado01.Properties.Resources.resources
+C:\Users\Administrador\Desktop\RONALD\Empleado\Empleado01\Empleado01\obj\Debug\Empleado01.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\RONALD\Empleado\Empleado01\Empleado01\obj\Debug\Empleado01.exe
+C:\Users\Administrador\Desktop\RONALD\Empleado\Empleado01\Empleado01\obj\Debug\Empleado01.pdb
+C:\Users\Administrador\Desktop\RONALD\Empleado\Empleado01\Empleado01\obj\Debug\Empleado01.frmLogin.resources
+C:\Users\Administrador\Desktop\TRABAJO-RONALD\Empleado\Empleado\Empleado01\Empleado01\bin\Debug\Empleado01.exe.config
+C:\Users\Administrador\Desktop\TRABAJO-RONALD\Empleado\Empleado\Empleado01\Empleado01\obj\Debug\Empleado01.exe
+C:\Users\Administrador\Desktop\TRABAJO-RONALD\Empleado\Empleado\Empleado01\Empleado01\obj\Debug\Empleado01.pdb
+C:\Users\Administrador\Desktop\TRABAJO-RONALD\Empleado\Empleado\Empleado01\Empleado01\bin\Debug\Empleado01.exe
+C:\Users\Administrador\Desktop\TRABAJO-RONALD\Empleado\Empleado\Empleado01\Empleado01\bin\Debug\Empleado01.pdb
+C:\Users\Administrador\Desktop\TRABAJO-RONALD\Empleado\Empleado\Empleado01\Empleado01\obj\Debug\Empleado01.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\TRABAJO-RONALD\Empleado\Empleado\Empleado01\Empleado01\obj\Debug\Empleado01.frmEmpleado.resources
+C:\Users\Administrador\Desktop\TRABAJO-RONALD\Empleado\Empleado\Empleado01\Empleado01\obj\Debug\Empleado01.frmLogin.resources
+C:\Users\Administrador\Desktop\TRABAJO-RONALD\Empleado\Empleado\Empleado01\Empleado01\obj\Debug\Empleado01.Properties.Resources.resources
+C:\Users\Administrador\Desktop\TRABAJO-RONALD\Empleado\Empleado\Empleado01\Empleado01\obj\Debug\Empleado01.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\ESCRITORIO\RONALD\TRABAJO-RONALD\Empleado\Empleado\Empleado01\Empleado01\bin\Debug\Empleado01.exe.config
+C:\Users\Administrador\Desktop\ESCRITORIO\RONALD\TRABAJO-RONALD\Empleado\Empleado\Empleado01\Empleado01\obj\Debug\Empleado01.exe
+C:\Users\Administrador\Desktop\ESCRITORIO\RONALD\TRABAJO-RONALD\Empleado\Empleado\Empleado01\Empleado01\obj\Debug\Empleado01.pdb
+C:\Users\Administrador\Desktop\ESCRITORIO\RONALD\TRABAJO-RONALD\Empleado\Empleado\Empleado01\Empleado01\bin\Debug\Empleado01.exe
+C:\Users\Administrador\Desktop\ESCRITORIO\RONALD\TRABAJO-RONALD\Empleado\Empleado\Empleado01\Empleado01\bin\Debug\Empleado01.pdb
+C:\Users\Administrador\Desktop\ESCRITORIO\RONALD\TRABAJO-RONALD\Empleado\Empleado\Empleado01\Empleado01\obj\Debug\Empleado01.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\ESCRITORIO\RONALD\TRABAJO-RONALD\Empleado\Empleado\Empleado01\Empleado01\obj\Debug\Empleado01.frmEmpleado.resources
+C:\Users\Administrador\Desktop\ESCRITORIO\RONALD\TRABAJO-RONALD\Empleado\Empleado\Empleado01\Empleado01\obj\Debug\Empleado01.frmLogin.resources
+C:\Users\Administrador\Desktop\ESCRITORIO\RONALD\TRABAJO-RONALD\Empleado\Empleado\Empleado01\Empleado01\obj\Debug\Empleado01.Properties.Resources.resources
+C:\Users\Administrador\Desktop\ESCRITORIO\RONALD\TRABAJO-RONALD\Empleado\Empleado\Empleado01\Empleado01\obj\Debug\Empleado01.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\ESCRITORIO\RONALD\TRABAJO-RONALD\FUENTE VISUAL\CAMBIO2-FINAL\Empleado\Empleado\Empleado01\Empleado01\bin\Debug\Empleado01.exe.config
+C:\Users\Administrador\Desktop\ESCRITORIO\RONALD\TRABAJO-RONALD\FUENTE VISUAL\CAMBIO2-FINAL\Empleado\Empleado\Empleado01\Empleado01\obj\Debug\Empleado01.exe
+C:\Users\Administrador\Desktop\ESCRITORIO\RONALD\TRABAJO-RONALD\FUENTE VISUAL\CAMBIO2-FINAL\Empleado\Empleado\Empleado01\Empleado01\obj\Debug\Empleado01.pdb
+C:\Users\Administrador\Desktop\ESCRITORIO\RONALD\TRABAJO-RONALD\FUENTE VISUAL\CAMBIO2-FINAL\Empleado\Empleado\Empleado01\Empleado01\bin\Debug\Empleado01.exe
+C:\Users\Administrador\Desktop\ESCRITORIO\RONALD\TRABAJO-RONALD\FUENTE VISUAL\CAMBIO2-FINAL\Empleado\Empleado\Empleado01\Empleado01\bin\Debug\Empleado01.pdb
+C:\Users\Administrador\Desktop\ESCRITORIO\RONALD\TRABAJO-RONALD\FUENTE VISUAL\CAMBIO2-FINAL\Empleado\Empleado\Empleado01\Empleado01\obj\Debug\Empleado01.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\ESCRITORIO\RONALD\TRABAJO-RONALD\FUENTE VISUAL\CAMBIO2-FINAL\Empleado\Empleado\Empleado01\Empleado01\obj\Debug\Empleado01.frmEmpleado.resources
+C:\Users\Administrador\Desktop\ESCRITORIO\RONALD\TRABAJO-RONALD\FUENTE VISUAL\CAMBIO2-FINAL\Empleado\Empleado\Empleado01\Empleado01\obj\Debug\Empleado01.frmLogin.resources
+C:\Users\Administrador\Desktop\ESCRITORIO\RONALD\TRABAJO-RONALD\FUENTE VISUAL\CAMBIO2-FINAL\Empleado\Empleado\Empleado01\Empleado01\obj\Debug\Empleado01.Properties.Resources.resources
+C:\Users\Administrador\Desktop\ESCRITORIO\RONALD\TRABAJO-RONALD\FUENTE VISUAL\CAMBIO2-FINAL\Empleado\Empleado\Empleado01\Empleado01\obj\Debug\Empleado01.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\Proyectos\Empleado\Empleado\Empleado01\Empleado01\bin\Debug\Empleado01.exe.config
+C:\Users\Administrador\Desktop\Proyectos\Empleado\Empleado\Empleado01\Empleado01\obj\Debug\Empleado01.exe
+C:\Users\Administrador\Desktop\Proyectos\Empleado\Empleado\Empleado01\Empleado01\obj\Debug\Empleado01.pdb
